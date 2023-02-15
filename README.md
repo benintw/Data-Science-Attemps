@@ -5,3 +5,4 @@ A repository for self-learning in Data Science
 
 - 1. Space Titanic (Kaggle)
 - 2. California Housing Prices (Kaggle)
+- 3. House Prices - Advanced Regression (Kaggle)
