@@ -1,4 +1,4 @@
-# Data-Science-Attemps
+# Data-Science-Project-Attempts
 
 
 A repository for self-learning in Data Science 
