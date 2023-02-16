@@ -4,14 +4,15 @@
 A repository for self-learning in Data Science 
 ---
 ### Topics I have done:
-  1. Space Titanic (Kaggle)
-  2. California Housing Prices (Kaggle)
-  3. House Prices - Advanced Regression (Kaggle)
+  - Space Titanic (Kaggle)
+  - California Housing Prices (Kaggle)
+  - House Prices - Advanced Regression (Kaggle)
+  - Concrete strength prediction (Kaggle)
 
 ---
 ### Topics I want to try:
-   1. Concrete strength prediction
-   2. Surface crack detection
+
+   - Surface crack detection (Kaggle)
 
 ---
 ### Areas to improve on:
