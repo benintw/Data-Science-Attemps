@@ -12,7 +12,10 @@ A repository for self-learning in Data Science
 ---
 ### Topics I want to try:
 
-   - Surface crack detection (Kaggle)
+   - Surface crack detection (Kaggle - Image Classification)
+   - Long-Term Asphalt Mixture Aging
+   - Excavator Image Dataset | Construction Vehicle (Kaggle - Image Classification)
+   - Pothole Severity Classification (Kaggle - Image Classification)
 
 ---
 ### Areas to improve on:
