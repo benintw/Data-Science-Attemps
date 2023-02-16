@@ -4,9 +4,9 @@
 A repository for self-learning in Data Science 
 
 ### Topics I have done:
-- 1. Space Titanic (Kaggle)
-- 2. California Housing Prices (Kaggle)
-- 3. House Prices - Advanced Regression (Kaggle)
+  - 1. Space Titanic (Kaggle)
+  - 2. California Housing Prices (Kaggle)
+  - 3. House Prices - Advanced Regression (Kaggle)
 
 
 ### Areas to improve on:
