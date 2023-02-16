@@ -8,6 +8,10 @@ A repository for self-learning in Data Science
   - 2. California Housing Prices (Kaggle)
   - 3. House Prices - Advanced Regression (Kaggle)
 
+### Topics I want to try:
+   1. Concrete strength prediction
+   2. Surface crack detection
+
 
 ### Areas to improve on:
 1. need to spend more time on:
