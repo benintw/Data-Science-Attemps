@@ -8,14 +8,12 @@ A repository for self-learning in Data Science
   - California Housing Prices (Kaggle)
   - House Prices - Advanced Regression (Kaggle)
   - Concrete strength prediction (Kaggle)
-
+  - Surface crack detection (Kaggle - Image Classification)
 ---
 ### Topics I want to try:
-
-   - Surface crack detection (Kaggle - Image Classification)
-   - Long-Term Asphalt Mixture Aging
-   - Excavator Image Dataset | Construction Vehicle (Kaggle - Image Classification)
-   - Pothole Severity Classification (Kaggle - Image Classification)
+ - Long-Term Asphalt Mixture Aging
+ - Excavator Image Dataset | Construction Vehicle (Kaggle - Image Classification)
+ - Pothole Severity Classification (Kaggle - Image Classification)
 
 ---
 ### Areas to improve on:
