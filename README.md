@@ -12,7 +12,7 @@ A repository for self-learning in Data Science
   
   Classification:
   - (CNN) Surface crack detection (Kaggle - Image Classification with CNN)
- 
+  - (SVM) Default of CreditCardClients (Kaggle)
   
 ---
 ### Topics I'm working on:
